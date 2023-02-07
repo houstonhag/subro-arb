@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T00:05:57.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="gdqEO_qikMi3XvXAVL4P" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T00:10:50.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="tnI8-2dwzqbSuTARq-U3" version="20.8.17" type="github">
   <diagram name="Page-1" id="Vv7Z7zQiuRI0vS9L6rlt">
     <mxGraphModel dx="1387" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -324,8 +324,14 @@
             <mxRectangle width="200" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0RkExURtNZxqV2c59cnG-94" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="cdmH3W0KU71Y-C22dnu6-5" target="0RkExURtNZxqV2c59cnG-91">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0RkExURtNZxqV2c59cnG-100" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="0RkExURtNZxqV2c59cnG-91">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="350" y="180" as="sourcePoint" />
+            <mxPoint x="450" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0RkExURtNZxqV2c59cnG-101" value="Claim Header and Exposure Relationship" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="260" y="10" width="300" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
